@@ -1,0 +1,19 @@
+{
+  "name": "trial",
+  "version": "1.0.0",
+  "description": "Basic bot for vindinium ai contest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/**/*_test.js"
+  },
+  "author": "Brandon Farmer",
+  "license": "ISC",
+  "dependencies": {
+    "hyperquest": "^1.0.1",
+    "progress-bar": "^0.1.1"
+  },
+  "devDependencies": {
+    "tap": "^0.5.0",
+    "tape": "^3.0.3"
+  }
+}
